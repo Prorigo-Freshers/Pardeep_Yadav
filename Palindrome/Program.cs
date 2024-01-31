@@ -30,7 +30,7 @@ namespace Palindrome
         static void Main(string[] args)
         {
             Program program = new Program(); 
-            int number = 122; 
+            int number = -11; 
             program.CheckPlaindromeNo(number);
             Console.ReadLine();
         }
