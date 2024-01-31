@@ -1,0 +1,7 @@
+D:\ProrigoFreshers\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+D:\ProrigoFreshers\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+D:\ProrigoFreshers\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+D:\ProrigoFreshers\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.AssemblyReference.cache
+D:\ProrigoFreshers\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+D:\ProrigoFreshers\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+D:\ProrigoFreshers\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
